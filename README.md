@@ -12,7 +12,9 @@ One of the key features of this Tic Tac Toe game is its optimized matching algor
 
 ## Demo
 
-You can watch a demo of the game [here](https://github.com/janardhan74/TicTacToe-React.js/blob/master/simplescreenrecorder-2024-05-15_08.26.16.mkv).
+You can watch a demo of the game [here](https://drive.google.com/file/d/1remSrMdgK0Qzw9jjWOdEWVG4hiQszpAs/view?usp=drive_link).
+
+Click the link to watch the gameplay video.
 
 ## Usage
 
@@ -28,3 +30,6 @@ To run the game locally:
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
